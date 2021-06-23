@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @mnbondong
-- 👀 I’m interested in python 
-- 🌱 I’m currently learning python for data science
-- 💞️ I’m looking to collaborate on health information systems
-- 📫 How to reach me nminkumamb@icloud.com
+- 👀 I’m interested in Data Science, ML and AI
+- 🌱 I’m currently learning Python for Data Science
+- 💞️ I’m looking to collaborate on Healthcare Tech Projects
+- 📫 Reach me on nminkumamb@icloud.com
 
 <!---
 mnbondong/mnbondong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
